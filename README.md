@@ -1,7 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-## REGISTER NUMBER: 212223040243
-## NAME: Vineela Shaik
-## DATE: 17.03.2025
+## REGISTER NUMBER: 212222110004
+## NAME: AMRUTHA
 # AIM
 To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
